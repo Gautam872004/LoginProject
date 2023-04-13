@@ -1,0 +1,57 @@
+
+/* Login css */
+
+.divider:after,
+.divider:before
+{
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #eee;
+}
+.login
+{
+    padding: 20px;
+    margin: 20px;
+    border-bottom: 5px solid #0d47a1;
+    width: 10%;
+    color: #2962ff;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button 
+{
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Dashboad css */
+.btn {
+    padding: .55rem 1.5rem .45rem;
+}
+.logo
+{
+    margin-top: 200px;
+    height: 350px;
+    width: 450px;
+}
+
+
+/* product table */
+
+.message
+{
+    color: #ffb74d;
+    font-size: 40px;
+}
+
+/* view product */
+a
+{
+    text-decoration: none;
+}
+.productview
+{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
